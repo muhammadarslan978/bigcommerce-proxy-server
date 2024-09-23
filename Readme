@@ -1,0 +1,19 @@
+# Proxy server
+
+This is a Node.js application designed to [briefly describe what your app does].
+
+## Prerequisites
+
+- [Node.js](https://nodejs.org/en/download/) (version 18 or above is recommended)
+- [npm](https://pnpm.io/installation) (if you're using it as your package manager)
+
+## Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/muhammadarslan978/bigcommerce-proxy-server.git
+cd bigcommerce-proxy-server
+npm i
+npm run dev
+```
